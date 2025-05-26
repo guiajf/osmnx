@@ -87,7 +87,7 @@ fig.subplots_adjust(hspace=0.35)
 fig.savefig("cidades_planejadas.png", facecolor="w", dpi=100, bbox_inches="tight")
 plt.close()
 ```
-
+![](rede_viaria.png)
 
 Cada uma das cidades é representada por um histograma polar, também
 conhecido como diagrama de roseta, que descreve a orientação das ruas. O
@@ -150,6 +150,21 @@ classificar cidades conforme padrões globais.
 
 ### Análise de cidades brasileiras planejadas
 
+
+``` python
+# Definimos os locais para consulta
+places = {
+    'Teresina': 'Teresina, PI, Brasil',
+    'Aracaju': 'Campanha, SE, Brasil',
+    'Goiânia': 'Goiânia, GO, Brasil',
+    'Boa Vista': 'Boa Vista, RR, Brasil',
+    'Maringá': 'Maringá, PR, Brasil',
+    'Palmas': 'Palmas, TO, Brasil',
+   
+}
+```
+![](cidades_planejadas.png)
+
 **Aracaju (SE)** apresenta uma malha viária com dupla orientação,
 resultante da sobreposição de uma grade ortogonal original com
 adaptações posteriores. Seu histograma polar exibiria picos em duas
@@ -199,22 +214,15 @@ brasileiro, onde grades ortogonais convivem com ajustes históricos e
 geográficos. Boa Vista, por seu desenho radial, é um caso atípico no
 contexto nacional, aproximando-se de modelos europeus.
 
+
+
+
+**Referências**
+
 Boeing, G. (2019). *Urban spatial order: street network orientation,
 configuration, and entropy.* Appl Netw Sci 4, 67.
 <https://doi.org/10.1007/s41109-019-0189-1>
 
 
-``` python
-# Definimos os locais para consulta
-places = {
-    'Teresina': 'Teresina, PI, Brasil',
-    'Aracaju': 'Campanha, SE, Brasil',
-    'Goiânia': 'Goiânia, GO, Brasil',
-    'Boa Vista': 'Boa Vista, RR, Brasil',
-    'Maringá': 'Maringá, PR, Brasil',
-    'Palmas': 'Palmas, TO, Brasil',
-   
-}
-```
 
 
