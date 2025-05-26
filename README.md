@@ -1,28 +1,5 @@
----
-jupyter:
-  kernelspec:
-    display_name: Python 3 (ipykernel)
-    language: python
-    name: python3
-  language_info:
-    codemirror_mode:
-      name: ipython
-      version: 3
-    file_extension: .py
-    mimetype: text/x-python
-    name: python
-    nbconvert_exporter: python
-    pygments_lexer: ipython3
-    version: 3.12.3
-  nbformat: 4
-  nbformat_minor: 4
----
-
-::: {.cell .markdown}
 # Análise de redes viárias urbanas
-:::
 
-::: {.cell .markdown}
 O pacote **OSMnx**, desenvolvido e mantido por Geoff Boeing, professor
 de Planejamento Urbano e Análise Espacial da USC - University of
 Southern California, permite comparar a orientação espacial das redes
