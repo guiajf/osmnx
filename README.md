@@ -45,15 +45,13 @@ ox.__version__
 
 **Definimos os locais para consulta**
 ``` python
-# Definimos os locais para consulta
+
 places = {
-    'Teresina': 'Teresina, PI, Brasil',
-    'Aracaju': 'Campanha, SE, Brasil',
-    'Goiânia': 'Goiânia, GO, Brasil',
-    'Boa Vista': 'Boa Vista, RR, Brasil',
-    'Maringá': 'Maringá, PR, Brasil',
-    'Palmas': 'Palmas, TO, Brasil',
-   
+    'Juiz de Fora': 'Juiz de Fora, MG, Brasil',
+    'Uberlândia': 'Uberlândia, MG, Brasil',
+    'Campanha': 'Campanha, MG, Brasil',
+    'Rio Pomba': 'Rio Pomba, MG, Brasil',
+      
 }
 ```
 **Geramos os diagramas**
