@@ -8,23 +8,23 @@ viárias de diferentes cidades.
 Inicialmente, vamos analisar as seguintes cidades mineiras: Juiz de
 Fora, Uberlândia, Campanha e Rio Pomba.
 
-Juiz de Fora foi fundada em 31 de Maio de 1850, completando 175 anos em
+**Juiz de Fora** foi fundada em 31 de Maio de 1850, completando 175 anos em
 2025. Conhecida como a \"Manchester Mineira\" por seu histórico
 industrial, é uma das cidades mais importantes do interior de Minas
 Gerais, com forte influência econômica e cultural na Zona da Mata.
 
-Uberlândia nasceu em 31 de Agosto de 1888, somando 137 anos de história
+**Uberlândia** nasceu em 31 de Agosto de 1888, somando 137 anos de história
 em 2025. Segunda maior cidade de Minas Gerais, destaca-se como um dos
 principais polos logísticos e tecnológicos do país, além de ser um
 centro de agronegócio e serviços.
 
-Campanha tem origens mais antigas, remontando a 2 de Outubro de 1737, o
+**Campanha** tem origens mais antigas, remontando a 2 de Outubro de 1737, o
 que lhe confere 287 anos de existência. Localizada no Sul de Minas,
 preserva um rico patrimônio histórico, com arquitetura colonial e
 tradições religiosas que remetem ao ciclo do ouro e ao desenvolvimento
 cafeeiro.
 
-Rio Pomba, por sua vez, foi fundada em 25 de Dezembro de 1767,
+**Rio Pomba**, por sua vez, foi fundada em 25 de Dezembro de 1767,
 acumulando 257 anos. Uma das cidades mais antigas da região da Zona da
 Mata, possui forte ligação com a religiosidade católica e mantém traços
 da arquitetura setecentista, sendo um testemunho vivo da colonização
